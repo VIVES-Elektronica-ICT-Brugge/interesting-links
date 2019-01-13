@@ -4,6 +4,7 @@
 
 * Git command line tool: https://git-scm.com/
 * Git complete reference book: https://git-scm.com/book/en/v2 
+* Git Tutorial (Atlassian) https://www.atlassian.com/git/tutorials
 * Github https://github.com/
 * Github Education https://education.github.com/
 * Github Classroom https://classroom.github.com/
